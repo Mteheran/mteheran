@@ -1,9 +1,12 @@
-### Hi there 👋
+### 👋 Hi, I'm Miguel Teheran.
 
-<!--
-**Mteheran/mteheran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a developer and software consultant working mostly with Microsoft Technologies. 
 
-Here are some ideas to get you started:
+- 📫 you can find at: @Mteheran 
+- 🌐 https://mteheran.wordpress.com/
+- 🌐 https://dev.to/mteheran
+- 🐤 https://twitter.com/mteheran
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
