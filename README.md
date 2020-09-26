@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Miguel Teheran.
 
-I work as a developer and software consultant working mostly with Microsoft Technologies. 
+I am developer and software consultant working mostly with Microsoft Technologies. 
 
 - 📫 you can find at: @Mteheran 
 - 🌐 https://mteheran.dev/
